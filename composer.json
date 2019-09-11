@@ -1,0 +1,20 @@
+{
+    "name": "akiraphat/appcomposerdemo",
+    "description": "demo app composer",
+    "type": "project",
+    "require": {
+        "dompdf/dompdf": "^0.8.3",
+        "swiftmailer/swiftmailer": "^6.2",
+        "monolog/monolog": "^1.24",
+        "phpmailer/phpmailer": "^6.0",
+        "phpoffice/phpexcel": "^1.8"
+    },
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "akira phat",
+            "email": "phatnguyen19111997@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
